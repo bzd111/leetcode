@@ -13,9 +13,6 @@ pytest = "*"
 rope = "*"
 
 [packages]
-flake8 = "*"
-isort = "*"
-blank-dev = "*"
 
 [requires]
 python_version = "3.7"
